@@ -1,5 +1,9 @@
 {
+ <<<<<<< HEAD
   "name": "dorime",
+=======
+  "name": "coinbase",
+>>>>>>> ec16d1cfa001da814149d439fa850d64defe8624
   "version": "0.1.0",
   "private": true,
   "dependencies": {
