@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import React from 'react';
 import './Navbar.css';
 import logo from './img/logo.svg'
@@ -88,6 +89,15 @@ const Navbar = () => {
                     </div>
                 </div>
             </div>
+=======
+import React from 'react'
+import './Navbar.css';
+
+const Navbar = () => {
+    return (
+        <div>
+
+>>>>>>> 272ac275e8ff317475a6612c8383e9ebffa7deb9
         </div>
     );
 }

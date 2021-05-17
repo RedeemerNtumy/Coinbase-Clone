@@ -1,10 +1,22 @@
 {
+<<<<<<< HEAD
   "name": "koinbaze",
+=======
+ <<<<<<< HEAD
+  "name": "dorime",
+=======
+  "name": "coinbase",
+>>>>>>> ec16d1cfa001da814149d439fa850d64defe8624
+>>>>>>> 272ac275e8ff317475a6612c8383e9ebffa7deb9
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.12.0",
+<<<<<<< HEAD
     "@testing-library/react": "^11.2.7",
+=======
+    "@testing-library/react": "^11.2.6",
+>>>>>>> 272ac275e8ff317475a6612c8383e9ebffa7deb9
     "@testing-library/user-event": "^12.8.3",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
